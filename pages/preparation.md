@@ -75,7 +75,8 @@ To summarize the team application activities, the team application activities th
 
 ## Conclusion
 
-We have now covered all concepts of TBL. *That's all.* Of course, we have only talked about *what* is happening, not *why*, and left out some details.  
+We have now covered all concepts of TBL. *That's all.* Of course, we have only talked about *what* is happening, not *why*, and left out some details. 
+These are the parts we look into closer in the seminar together. 
 
 
 # Optional Preparation
