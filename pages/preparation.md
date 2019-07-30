@@ -1,20 +1,14 @@
 # Preparation
 
-
 Part of this seminar is a preparation _before_ we meet, so that you get better learning results for yourself, but also that you get a more authentic feeling of a TBL session. 
 
 - Read at least the section **Overview of TBL** below.
 - Optionally, browse through the additional material below. 
 
 
-
-
 # Overview of TBL
 
-
-
-Abstract: To quickly get an overview of team-based learning, it is easiest to look at its elements at the surface level---focusing on <strong style="color: #F74D63">what</strong> is happening---before we dive into more details. You will learn about the main elements of team-based learning, how a course is partitioned into units, and how each unit consists of a sequence of learning activities.
-
+:abstract: To quickly get an overview of team-based learning, it is easiest to look at its elements at the surface level---focusing on _what_ is happening---before we dive into more details. You will learn about the main elements of team-based learning, how a course is partitioned into units, and how each unit consists of a sequence of learning activities.
 
 ## The Teams
 
@@ -24,21 +18,17 @@ At the beginning of the semester, the teacher assigns the students to teams of 5
 
 A course is divided into a number of learning units, roughly one unit per week, covering a specific area or topic within the course. For each learning unit, students go through a specific sequence of activities.
 
-
 ---
 type: figure
 source: https://www.iik.ntnu.no/tbl/wp-content/uploads/2018/04/tbl-unit.png
 ---
-
 
 ## Phase 1: Preparation
 
 Students prepare individually, outside of class, using a number of learning activities prepared by the instructor. Examples are book chapters, videos, or any other learning material that is suitable for a first approach to new knowledge.
 
 
-
 ## Phase 2: Readiness Assurance
-
 
 Students then visit class. What follows is a phase to ensure that students have prepared and that gives them a first opportunity to test their knowledge. This phase is also called *Readiness Assurance Test* or short *RAT*, consisting of two tests following immediately each other. Both tests are closed-book, without any helping material. The level of difficulty is moderate. Questions should trigger discussion and not be trivial, but they should not be unreasonably difficult either. 
 
@@ -100,12 +90,10 @@ video: gW_M426V2E0
 
 ### Team-Based Learning at Bradford
 
-
 ---
 type: youtube
 video: VwgE_3lMaTY
 ---
-
 
 
 ### Sheri Wall on TBL

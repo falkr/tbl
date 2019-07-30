@@ -223,6 +223,50 @@ div.factbox {
   width:250px; float: right; margin: 0 15px 15px 15px; padding:15px; background: lightblue
 }
 
+div.definition p {
+    background-color: #d9eaf2; padding: 4px;
+}
+
+div.definition p::before { 
+  content: "Definition: ";
+  font-weight: bold;
+  display: inline;
+}
+
+div.guideline p {
+  background-color: #d9eaf2; padding: 4px;
+}
+
+div.guideline p::before { 
+  content: "Guideline: ";
+  font-weight: bold;
+  display: inline;
+}
+
+div.task p {
+  background-color: #d9eaf2; xpadding: 2px 4px 2px 4px;
+}
+
+div.task p::before { 
+  content: "Task: ";
+  font-weight: bold;
+  display: inline;
+}
+
+div.tip p {
+  background-color: #d9eaf2; padding: 4px;
+}
+
+div.abstract {
+  font-weight: bold;
+  font-style: italic;
+}
+
+div.tip p::before { 
+  content: "Tip: ";
+  font-weight: bold;
+  display: inline;
+}
 
 div.goals ul,
 div.goals ul li {
@@ -293,6 +337,11 @@ a.arrow:hover {
     border-radius: 10px;
     text-decoration: none;
     background-color: #DDEAF4;
+}
+
+hr.lines {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 
 code {
