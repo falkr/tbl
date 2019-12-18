@@ -10,9 +10,10 @@ Part of this seminar is a preparation _before_ we meet, so that you get better l
 
 :abstract: To quickly get an overview of team-based learning, it is easiest to look at its elements at the surface level---focusing on _what_ is happening---before we dive into more details. You will learn about the main elements of team-based learning, how a course is partitioned into units, and how each unit consists of a sequence of learning activities.
 
+
 ## The Teams
 
-At the beginning of the semester, the teacher assigns the students to teams of 5 to 7 students. These teams stay constant over the entire semester. 
+At the beginning of the semester, the teacher assigns all students to teams of 5 to 7 students. These teams remain constant over the entire semester.
 
 ## Learning Units
 
@@ -48,7 +49,9 @@ caption: Scratchcards reveal the right answer with a star.
 
 ### Instructor Feedback
 
-Since the tests are multiple-choice, it is often easy to immediately gather results and statistics that reveal content that is unclear and deserves repetition. This can be done using short lectures, ideally not longer than 20 minutes. 
+Since the tests are multiple-choice, it is often easy to immediately gather results and statistics that reveal content that is unclear and deserves repetition.
+Studentd may also request clarifications or argue if they disagree with answer alternatives in the test. 
+This phase resembles an interactive lecture, ideally not longer than 20 minutes. 
 
 ## Phase 3: Team Application Activities
 
@@ -65,7 +68,7 @@ To summarize the team application activities, the team application activities th
 
 ## Conclusion
 
-We have now covered all concepts of TBL. *That's all.* Of course, we have only talked about *what* is happening, not *why*, and left out some details. 
+We have now covered all concepts of TBL. Of course, we have only talked about *what* is happening, not *why*, and left out some details. 
 These are the parts we look into closer in the seminar together. 
 
 
