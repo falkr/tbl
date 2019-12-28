@@ -5,6 +5,13 @@ This is a seminar about Team-Based Learning (TBL). If you visit this page after 
 :aside: <img src="figures/frank.jpg" width="100px"><p><a href="https://www.ntnu.edu/employees/kraemer">Frank Alexander Kraemer</a><br/><i class="far fa-envelope"></i> kraemer@ntnu.no</p>
 
 
+## Schedule
+
+I offer the 2-hour seminar about once a year, with announcement in Innsida. If you want to get a notification about an upcoming seminar, feel free to [register your email address](https://forms.office.com/Pages/ResponsePage.aspx?id=cgahCS-CZ0SluluzdZZ8BSxiepoCd7lKk70IThBWqdJUNUo0OEhaVFJOT1M1UkU1Q1o2N1AzS0VDSi4u).
+
+If you are instead interested in the 20-hour module for pedagogic training at NTNU, [register via Læringsportalen](https://studntnu.sharepoint.com/sites/kurs/Sider/UB-Modul---Teambasert-læring-i-praksis-(TBL).aspx). 
+
+
 ## Learning Goals
 
 :goals: After going through this seminar, you will be able to:
