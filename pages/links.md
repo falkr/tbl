@@ -3,7 +3,7 @@
 
 ## Articles About Team-Based Learning
 
-* [The Essential Elements of Team-Based Learning](http://doi.org/10.1002/tl.330), by Larry K. Michaelsen and Michael Sweet. New Directions in Teaching and Learning, no. 116 Winter 2008. Wiley Periodicals. (This article is the first one in the book _Team-Based Learning: Small-Group Learning's Next Big Step_ recommended below.)
+* [The Essential Elements of Team-Based Learning](https://doi.org/10.1002/tl.330), by Larry K. Michaelsen and Michael Sweet. New Directions in Teaching and Learning, no. 116 Winter 2008. Wiley Periodicals. (This article is the first one in the book _Team-Based Learning: Small-Group Learning's Next Big Step_ recommended below.)
 
 ## Books about Team-Based Learning 
 
@@ -19,12 +19,16 @@ The following two books capture TBL in individual chapters written by teachers f
 
 * [NOKUT-podden: Den om teambasert læring](https://soundcloud.com/nokutpodden/den-om-teambasert-laering) Brief podcast episode that provides a good overview of TBL. With Børge Lillebo and Ivar Sjåk Nordrum from NTNU. (In Norwegian.)
 
-* [Teaching in Higher Ed Podcast: Team-Based Learning](http://teachinginhighered.com/podcast/team-based-learning/) Podcast episode with Jim Sibley.
+* [Teaching in Higher Ed Podcast: Team-Based Learning](https://teachinginhighered.com/podcast/team-based-learning/) Podcast episode with Jim Sibley.
 
+
+## Webinars
+
+* [Webinar on Team-Based Learning](A 30 minute webinar at NTNU.) (In Norwegian.)
 
 ## Tools and Utilities
 
-* [Ordering of Scratch Cards from Epstein Education](http://www.epsteineducation.com/home/order/default.aspx)
+* [Teampy](https://falkr.github.io/teampy/) A tool to create and grade paper-based multiple-choice tests (RATs).
 
 ## Websites
 
