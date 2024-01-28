@@ -31,13 +31,15 @@ Students first complete an individual test that covers the preparation material.
 
 ### Second: Team Test (t-RAT)
 
-Students solve the **same test** once again, but this time as a team. This gives them the opportunity to discuss the correct answer. During this process, it is important that teams have immediately access to the correct answer after they have given theirs. This can be achieved by special scratchcards that reveal the correct answer and also document a team's choice. As with the individual test, no helping material is allowed.
+Students solve the **same test** once again, but this time as a team. This gives them the opportunity to discuss the correct answer.
+During this process, it is important that teams have immediately access to the correct answer after they have given theirs.
+This can be achieved for instance by an app, which reveals the proper answer step by step.
 
----
-type: figure
-source: figures/scratchcard.jpg
-caption: Scratchcards reveal the right answer with a star.
----
+<video  class="figure-img img-fluid rounded" controls>
+	<source src="figures/solve.mp4" type="video/mp4">
+	Your browser does not support the video tag. The video shows a student revealing the proper answer of a question with the Nøtteknekker app.
+</video>
+
 
 ### Instructor Feedback
 

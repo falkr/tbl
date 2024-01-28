@@ -72,32 +72,109 @@
 
   <main class="container container-max-width">
     <section class="mt-5 mb-5 py-3">
-<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><h1>Videos about TBL</h1>
-<p>Have a look how TBL works at other universities.</p>
-<h2>Team-Based Learning at Duke University</h2>
+<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><h1>Team RATs with Nøtteknekker</h1>
 </div><aside class="col-md-4 chunk ps-2"></aside></div>
-<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><div class="figure">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gW_M426V2E0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></div><aside class="col-md-4 chunk ps-2"></aside></div>
-<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><h2>Team-Based Learning at Bradford</h2>
+<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><video  class="figure-img img-fluid rounded" controls>
+	<source src="figures/solve.mp4" type="video/mp4">
+	Your browser does not support the video tag. The video shows a student revealing the proper answer of a question with the Nøtteknekker app.
+</video>
+
+
+
 </div><aside class="col-md-4 chunk ps-2"></aside></div>
-<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><div class="figure">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VwgE_3lMaTY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></div><aside class="col-md-4 chunk ps-2"></aside></div>
-<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><h2>Sheri Wall on TBL</h2>
+</section>
+<section class="mt-5 mb-5 py-3">
+<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><h1>Preparing RATs with Nøtteknekker</h1>
 </div><aside class="col-md-4 chunk ps-2"></aside></div>
-<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><div class="figure">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tjuUlfI8aY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></div><aside class="col-md-4 chunk ps-2"></aside></div>
-<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><h2>On Forming Teams</h2>
+<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><h2>Step 1: Develop Your RAT</h2>
+<p>To use Nøtteknekker, you need between 5 and 12 questions.
+Each question must have four answer alternatives (A, B, C, D), where one answer is considered <em>best</em>.
+Write the test in any format convenient for you.</p>
+<p>Shuffle the answer alternatives randomly, and write down the sequence of best or correct answers.
+For instance, in a test with 10 questions, our answer alternatives could be <code>ABBDCAACBB</code>.
+This means, the correct answer of the first question is <code>A</code>, and <code>B</code> of the second question, and so on.</p>
+<p>In the following, we use the same answer alternatives for the individual students and the teams.
+For trying our RATs your first time, this is probably the easiest option and works well.
+If you want to automatically create different answer alternatives for each student and each team, you can use the <a href="https://falkr.github.io/teampy/">Teampy Program</a>.</p>
 </div><aside class="col-md-4 chunk ps-2"></aside></div>
-<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><p>In TBL, teams are assigned by the instructor. Let's hear the description from Michael Sweet why this is a good idea:</p>
+<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><h2>Step 2: Printing the Individual RATs</h2>
+<p>Print one copy for each individual student.</p>
 </div><aside class="col-md-4 chunk ps-2"></aside></div>
-<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><div class="figure">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XSpyLRX9meY?start=1116" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></div><aside class="col-md-4 chunk ps-2"></aside></div>
-<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><p>This video is part of a longer TBL seminar that is interesting to watch (<a href="https://youtu.be/XSpyLRX9meY">part 1</a> and <a href="https://youtu.be/UWz8Dtu_wBM">part 2</a>).</p>
+<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><h2>Step 3: Printing the Team RATs</h2>
+<p>When the students do the individual tests, they don't receive the correct answer while they solve the test, so there is nothing for us to do.
+But during the team test, the teams reveal the right answer with each question they solve.
+For that, we use the Nøtteknekker app.
+This app reveals the right answer step by step, it just has to be loaded with the encoded form of the answers which we will generate below.</p>
+<p>Enter below the answer alternatives for your RAT. In our example with 10 questions that was <code>ABBDCAACBB</code>.
+On the right side you see the Nøtteknekker code. In our example that would be <code>CGU3DB</code>.</p>
 </div><aside class="col-md-4 chunk ps-2"></aside></div>
+<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><div class="container">
+	  <div class="input-group mb-3">
+		  <input type="text" class="form-control" id="inputString" placeholder="Enter answers...">
+		  <span class="input-group-text"><i class="bi bi-arrow-right"></i></span>
+		  <input type="text" class="form-control" id="reversedString" readonly>
+		</div>
+		<small id="okText" class="error-messagex"></small>
+		<small id="errorText" class="error-message"></small>
+</div>
+<style>
+  .error-message {
+	  color: red;
+	  margin-top: 5px;
+  }
+</style>
+<script>
+  const base5Digits = ['X', 'A', 'B', 'C', 'D'];
+  const base32Digits = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ234567'.split('');
+  function base5ToBase32(base5Array) {
+	  let base10Number = 0;
+	  for (let digit of base5Array) {
+		  if (!base5Digits.includes(digit)) {
+			  return ['I', 'n', 'v', 'a', 'l', 'i', 'd'];
+		  }
+		  let position = base5Digits.indexOf(digit);
+		  base10Number = base10Number * 5 + position;
+	  }
+	  let base32Array = [];
+	  while (base10Number > 0) {
+		  let remainder = base10Number % 32;
+		  base32Array.unshift(base32Digits[remainder]);
+		  base10Number = Math.floor(base10Number / 32);
+	  }
+	  return base32Array.length === 0 ? ['0'] : base32Array;
+  }
+  document.getElementById('inputString').addEventListener('input', function(e) {
+	  var inputVal = e.target.value.toUpperCase();
+	  // Filter out unwanted characters
+	  inputVal = inputVal.replace(/[^ABCDX]/gi, '');
+	  e.target.value = inputVal;
+	  if(inputVal.length < 5) {
+		  document.getElementById('errorText').textContent = 'Please enter at least 5 characters.';
+		  document.getElementById('okText').textContent = '';
+	  } else if(inputVal.length > 12) {
+		document.getElementById('errorText').textContent = 'There can be at most 12 questions.';
+		document.getElementById('okText').textContent = '';
+	  } else {
+		document.getElementById('errorText').textContent = '';
+		  document.getElementById('okText').textContent = inputVal.length + ' questions.';
+	  }
+	  inputVal = inputVal.padEnd(12, 'X');
+	  let outputVal = base5ToBase32(inputVal.split(''));
+	  document.getElementById('reversedString').value = outputVal.join('');
+  });
+</script>
+
+
+</div><aside class="col-md-4 chunk ps-2"></aside></div>
+<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><p>Write this 6-letter code at the top of the team RAT before you print it. Alternatively, show it to your students on your slides presentation.</p>
+<p><strong>Only one student per team</strong> needs an iPhone (or iPad) and install the app <em>Nøtteknekker</em>.
+They open the app, and enter the 6-digit code that corresponds to your answer alternatives.</p>
+</div><aside class="col-md-4 chunk ps-2"></aside></div>
+<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><figure class="figure">
+  <a href="https://apps.apple.com/no/app/nøtteknekker/id1667651492">
+	<img src="figures/appstore.png" class="figure-img img-fluid rounded" alt="" style="width:160px; height: 54px">
+  </a>
+</figure></div><aside class="col-md-4 chunk ps-2"></aside></div>
 </section>
   </main>
 
@@ -142,7 +219,7 @@
         <li>This site is hosted on <a href="https://github.com/falkr/tbl">Github</a></li>
         <li>The source is written in <a href="supermark/index.html">Supermark</a> syntax</li>
         <li>To edit this page, make a commit to <a
-            href="https://github.com/falkr/tbl/tree/master/pages/videos.md">this file</a></li>
+            href="https://github.com/falkr/tbl/tree/master/pages/nøtteknekker.md">this file</a></li>
       </ul>
     </div>
   </div>
@@ -154,8 +231,7 @@
     anchors.options.visible = 'always';
     var clipboard = new ClipboardJS('.copy-button');
   </script>
-  <script>
-</script>
+  <script></script>
 </body>
 
 </html>

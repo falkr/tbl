@@ -6,8 +6,8 @@ We will emphasize the constructive and practical aspects of TBL.
 
 "That’s a nice idea, but it just doesn’t work in my course" is something all of us have thought or said at some point.
 We will therefore also spend time to figure out what is “so special” about your course, and try to make TBL work for you.
-But the goal of this module is not that everyone ends up using TBL. Some will, and some won’t.
-Instead, the goal is to make you see how TBL works, as it helps you to understand more about teach- ing and learning, and will provide you with more critical reflection and the skills to change.
+But the goal of this module is not that everyone ends up using TBL.
+Instead, the goal is to make you see how TBL works, as it helps you to understand more about teaching and learning, and will provide you with more critical reflection and the skills to change.
 
 
 
@@ -46,24 +46,12 @@ link: preparation.html
 
 # Phase 2: First Session
 
-
-
+Friday 9. Februar 2024, 8:00 - 12:00
+[Gløshaugen, G108](https://link.mazemap.com/6I7Jj7bo)
 
 
 # Phase 3: Field Trial
 
-
-## Reflection Document
-
-Download the Word document below. In it you collect all material and reflection about your field trial. 
-This is also the document you hand in at the end to conclude the module.
-
----
-type: link
-title: 'Reflection Document'
-icon: filetype-docx
-link: reflection.docx
----
 
 
 Follow the instructions below to conduct your field trial.
@@ -78,10 +66,12 @@ link: field.html
 
 # Phase 3: Second Session
 
+Fredag 26. April 2024, 8:00 - 12:00
+[Gløshaugen, G108](https://link.mazemap.com/6I7Jj7bo)
 
 
 # Phase 4: Concluding Reflection
 
 
-* Fill out the remaining parts of the [reflection document from above](#reflection-document).
-* Send the document to [me](mailto:kraemer@ntnu.no)
+* Fill out the remaining parts of the reflection document.
+* Send the document as PDF to [me](mailto:kraemer@ntnu.no)
