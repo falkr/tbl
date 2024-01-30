@@ -2,6 +2,7 @@
 
 :abstract: For å raskt få en oversikt over teambasert læring, er det enklest å se på elementene på overflatenivå---fokusere på _hva_ som skjer---før vi går dypere inn i detaljene. Du vil lære om de viktigste elementene i teambasert læring, hvordan et kurs er inndelt i enheter, og hvordan hver enhet består av en sekvens av læringsaktiviteter.
 
+
 ## Teamene
 
 I begynnelsen av semesteret tildeler læreren alle studenter til team på 5 til 7 studenter. Disse teamene forblir konstante gjennom hele semesteret.
