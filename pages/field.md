@@ -13,7 +13,7 @@ I contrast, what do you think are possible challenges?
 
 
 
-Ideally, you develop the TBL with the backwards design method introduced in the preparation, but the field trial can also work even if you don't manage a perfect alignment between learning goals, team activity, RAT and preparation material. Though I encourage you to work hard for this field trial, here is a list of potential shortcuts:
+Ideally, you develop the TBL unit with the backwards design method introduced in the preparation, but the field trial can also work even if you don't manage a perfect alignment between learning goals, team activity, RAT and preparation material. Though I encourage you to make a real effort for the field trial, here is a list of potential shortcuts:
 
 * If you don't assign students into teams before class, you can also assign random teams in class right before the RAT. Just make sure that students don't choose teams on their own.
 * In case you don't have the possibility to give students preparation material, make the RAT about concepts you covered in the course before.
@@ -44,7 +44,7 @@ Since cheating probably won't be a problem, all students can receive the exact s
 
 
 For the team RAT you need to ensure that students receive the proper answer **while they solve the quiz**, at their own speed.
-For this you can use the [Nøtteknekker App on iPhone](https://apps.apple.com/no/app/nøtteknekker/id1667651492).
+For this you can use the [Nøtteknekker App on iPhone](nøtteknekker.html).
 
 
 :aside: The app is only available for iPhone or iPad.
