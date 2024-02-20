@@ -8,16 +8,16 @@
 ├── Found configuration file.
 │   └── config.toml
 ├── Found extension ButtonExtension
-├── Found extension CheckParagraphExtension
-├── Found extension WeekplanTableClassExtension
-├── Found extension NavExtension
-├── Found extension QuizExtension
-├── Found extension CheckListBoxParagraphExtension
-├── Found extension TreeParagraphExtension
+├── Found extension DoubleParagraphExtension
 ├── Found extension AbstractParagraphExtension
+├── Found extension LinesExtension
+├── Found extension VideoExtension
+├── Found extension NavExtension
+├── Found extension RATParagraphExtension
+├── Found extension WeekplanTableClassExtension
 ├── Found extension HintExtension
+├── Found extension TipsParagraphExtension
 ├── Found extension QNAExtension
-├── Found extension StepsParagraphExtension
 ├── Found extension BoxParagraphExtension
 ├── Found extension DefinitionParagraphExtension
 ├── Found extension DeliveryParagraphExtension
@@ -28,19 +28,19 @@
 ├── Found extension TaskParagraphExtension
 ├── Found extension TipParagraphExtension
 ├── Found extension WarningParagraphExtension
-├── Found extension FigureExtension
-├── Found extension RATParagraphExtension
+├── Found extension LinkExtension
 ├── Found extension QuoteExtension
-├── Found extension LinesExtension
+├── Found extension QuizExtension
+├── Found extension CheckListBoxParagraphExtension
+├── Found extension StepsParagraphExtension
+├── Found extension TreeParagraphExtension
+├── Found extension RubricTableClassExtension
+├── Found extension TableExtension
+├── Found extension CheckParagraphExtension
+├── Found extension FigureExtension
+├── Found extension GoalsParagraphExtension
 ├── Found extension CardExtension
 ├── Found extension CardGroupExtension
-├── Found extension RubricTableClassExtension
-├── Found extension GoalsParagraphExtension
-├── Found extension TipsParagraphExtension
-├── Found extension VideoExtension
-├── Found extension DoubleParagraphExtension
-├── Found extension LinkExtension
-├── Found extension TableExtension
 ├── Installed Pandoc version: 2.12
 ├── Installed Python version: 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0]
 ├── Breadcrumbs exist in /home/runner/work/tbl/tbl/pages/breadcrumbs.txt
@@ -48,43 +48,43 @@
 ├── Using threadpool.
 └── Translated
     ├── /home/runner/work/tbl/tbl/docs/nøtteknekker.html
-    ├── /home/runner/work/tbl/tbl/docs/field.html
-    ├── /home/runner/work/tbl/tbl/docs/links.html
     ├── /home/runner/work/tbl/tbl/docs/index.html
     ├── /home/runner/work/tbl/tbl/docs/videos.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/index.html
-    ├── /home/runner/work/tbl/tbl/docs/overview_no.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/extensions.html
-    ├── /home/runner/work/tbl/tbl/docs/module.html
-    ├── /home/runner/work/tbl/tbl/docs/webinar.html
-    ├── /home/runner/work/tbl/tbl/docs/preparation.html
+    ├── /home/runner/work/tbl/tbl/docs/links.html
+    ├── /home/runner/work/tbl/tbl/docs/field.html
     ├── /home/runner/work/tbl/tbl/docs/overview.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/abstract.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/goals.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/tipsbox.html
     ├── /home/runner/work/tbl/tbl/docs/supermark/development.html
+    ├── /home/runner/work/tbl/tbl/docs/webinar.html
+    ├── /home/runner/work/tbl/tbl/docs/module.html
     ├── /home/runner/work/tbl/tbl/docs/supermark/rat.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/figure.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/video.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/checklistbox.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/quiz.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/rubrics.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/nav.html
+    ├── /home/runner/work/tbl/tbl/docs/overview_no.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/index.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/extensions.html
+    ├── /home/runner/work/tbl/tbl/docs/preparation.html
     ├── /home/runner/work/tbl/tbl/docs/supermark/tree.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/check.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/hints.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/lines.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/link.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/usage.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/double.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/tipsbox.html
     ├── /home/runner/work/tbl/tbl/docs/supermark/quote.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/weekplan.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/qna.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/goals.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/button.html
     ├── /home/runner/work/tbl/tbl/docs/supermark/steps.html
     ├── /home/runner/work/tbl/tbl/docs/supermark/installation.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/coursetable.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/writing.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/button.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/qna.html
-    ├── /home/runner/work/tbl/tbl/docs/supermark/boxes.html
     ├── /home/runner/work/tbl/tbl/docs/supermark/table.html
-    └── /home/runner/work/tbl/tbl/docs/supermark/card.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/check.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/double.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/link.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/rubrics.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/quiz.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/nav.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/hints.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/checklistbox.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/lines.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/writing.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/figure.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/abstract.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/weekplan.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/usage.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/video.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/coursetable.html
+    ├── /home/runner/work/tbl/tbl/docs/supermark/card.html
+    └── /home/runner/work/tbl/tbl/docs/supermark/boxes.html
