@@ -22,7 +22,7 @@ link: module.html
 type: card/text
 title: "Webinar on TBL"
 text: A 30 minute webinar (in Norwegian).
-link: preparation.html
+link: webinar.html
 ---
 
 
