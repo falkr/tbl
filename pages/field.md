@@ -47,25 +47,13 @@ For the team RAT you need to ensure that students receive the proper answer **wh
 For this you can use the [Nøtteknekker App on iPhone](nøtteknekker.html).
 
 
-:aside: The app is only available for iPhone or iPad.
-During class time, only one member needs the app, so this should not be a problem. 
-If you don't have an iPhone yourself, you can ask a colleague who has one to help you in the next step.
-
-
-* In the app, click on the + symbol at the bottom to create a new quiz code
-* Sort the answers according to your quiz, or copy the suggested answer sequence and adjust your quiz accordingly.
-* Note the code to share with your students into the quiz document. (From here on, you don't need an iPhone anymore.)
-* Print one copy for each team.
-
-
-
 
 # Preparing the Team Activity
 
 For the team activity, you are more free in the structure and content, which can also be challenging.
 * Not all activities have to fulfill all the 4-S properties.
 * Remember there does not need to be a single right answer, either.
-* Sometimes it helps to think of the team activity as a preparation for a class discussion, meaning that students don't need to learn everything within that activity, but that you can switch to other learning activities afterwards. However, don't overdo the discussion part --- keep your students active.
+* Sometimes it helps to think of the team activity as a preparation for a class discussion, meaning that students don't need to learn everything within that activity, but that you can switch to other learning activities afterwards.
 * You can also see a team activity as an extended RAT, with more involved multiple-choice questions that may require work to come to a conclusion.
  
 
